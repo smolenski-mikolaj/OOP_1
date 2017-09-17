@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu:400,700");
+@import url("https://fonts.googleapis.com/css?family=Lato:300");
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu", sans-serif;
+  color: #fff;
+  background: #437dcc; }
+
+header {
+  padding-top: 30vh; }
+
+h1, h2 {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
